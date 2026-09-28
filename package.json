@@ -1,0 +1,10 @@
+{
+  "name": "pruebas-unitarias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "funciones.js",
+  "scripts": {
+    "test": "jest"
+  }
+
+}
